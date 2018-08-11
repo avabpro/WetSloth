@@ -29,7 +29,7 @@ Description: Analyzing top ten hits between 1960 - 2017 for the following questi
 Questions:
 1) Percentage of artists that are one-hit-wonders vs those that have repeat hits
 
-2) Most popular words within top 10 hit song titles
+2) Gender popularity in top 10 hit song titles
 
 3) Likelihood of solo artists vs groups/bands making a top 10 hit (avg / year)
 
@@ -38,9 +38,10 @@ Hypothesis 1: Artists/groups have less than a 10% chance of creating more than o
 
 Null Hypothesis 1: Artists/groups have greater than a 10% chance of creating more than one Top 10 hit
 
-Hypothesis 2: Within the categories of nouns, verbs & adjectvices, the most popular words within top 10 hit song titles are nouns
+Hypothesis 2: Among the most popular song titles within top 10 hit song titles, the majority of them are about women 
+Based on created gender dictionary for project: (she/her/woman/women/gal/girl/chick/lady/ladies) VS (he/his/man/men/pal/guy/dude/gentleman/gentlemen)
 
-Null Hypothesis 2: Within the categories of nouns, verbs & adjectvices, the most popular words within top 10 hit song titles are NOT nouns
+Null Hypothesis 2: Among the most popular song titles within top 10 hit song titles, the majority of them are about men 
 
 Hypothesis 3: The likelihood of solo artists making a top 10 hit is greater than the likelihood of of groups making a top 10 hit
 
